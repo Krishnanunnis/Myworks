@@ -7,10 +7,10 @@ body {
 h1 {
 	color: #efc63e;
 	background-image: url("1755029-bigthumbnail.jpg");
+	background-size: 100% 100%;
                    background-repeat: no-repeat;
                    height: 200px;
                   background-position: center top;
-	background-size: 100% 100%;
 	padding: 50px;
 	margin: 0px;
 	text-align: center;
